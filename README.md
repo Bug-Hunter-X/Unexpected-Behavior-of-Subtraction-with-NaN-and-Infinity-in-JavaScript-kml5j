@@ -1,0 +1,3 @@
+# Unexpected Behavior of Subtraction with NaN and Infinity in JavaScript
+
+This repository demonstrates an uncommon error in JavaScript involving the subtraction operator (-) when used with NaN (Not a Number) and Infinity values.  The `bug.js` file shows how different input combinations of numbers, NaN, and Infinity produce unexpected results. The `bugSolution.js` file offers a way to handle such scenarios to avoid unexpected behavior.
